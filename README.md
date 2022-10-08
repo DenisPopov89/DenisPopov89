@@ -1,6 +1,6 @@
 ## ОБО МНЕ
 - 👋 Hi, I'm Denis Popov, a novice Java tester.
-- 🌱 Currently I work as a mechanical engineer and study at Netology as a software tester.
+- 🌱 I am currently working as a mechanical engineer for transport and studying at Netology as a software tester
 ## КОНТАКТЫ
 - 📫 Email: idea-@list.ru
 
