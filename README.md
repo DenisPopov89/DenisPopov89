@@ -1,7 +1,7 @@
-## ОБО МНЕ
+### ОБО МНЕ
 - 👋 Hi, I'm Denis Popov, a novice Java tester.
 - 🌱 I am currently working as a mechanical engineer for transport and studying at Netology as a software tester
-## КОНТАКТЫ
+### КОНТАКТЫ
 - 📫 Email: idea-@list.ru
 
 <!---
